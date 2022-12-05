@@ -19,7 +19,7 @@ function SideBar(){
                 <hr className="sidebar-divider my-0"/>
 
                 {/*<!-- Nav Item - Dashboard -->*/}
-                <li className="nav-item active">
+                <li  className="nav-item active">
                     <Link className="nav-link" to="/">
                         <i className="fas fa-fw fa-tachometer-alt"></i>
                         <span>Dashboard - DH movies</span></Link>
